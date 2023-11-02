@@ -1,2 +1,2 @@
-# lqtv.github.io
+# lqtv
 tv/m3u/epg/logo
