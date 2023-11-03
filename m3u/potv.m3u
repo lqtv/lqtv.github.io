@@ -48,6 +48,10 @@ http://zb.gxlbamc.com:1935/live/xwhc.stream/playlist.m3u8
 http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视 高音质" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/gxws.png" group-title="广西",广西卫视 高音质
 http://58.20.202.43:808/hls/50/index.m3u8
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻 720P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/TVB4.png" group-title="香港",无线新闻 720P
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经 720P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/TVB5.png" group-title="香港",無綫財經 720P
+http://r.jdshipin.com/jUx8K
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视 720P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/sxws.png" group-title="山西",山西卫视 720P
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225730/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视 HEVC" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/sxws.png" group-title="山西",山西卫视 HEVC
