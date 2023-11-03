@@ -29,14 +29,14 @@ TVchannels/m3u/epg/TV icon
 
 只需将以下播放列表链接插入任何支持实时流式传输的视频播放器，然后按打开即可。播放器下载及使用可自行搜索。
 
-## 播放源
+## 播放源1
 ```
-https://raw.githubusercontent.com/lqky/iptv/main/m3u/tv.m3u
+https://lqtv.github.io/m3u/tv.m3u
 ```
-## 播放源（备选）
+## 播放源2
 
 ```
-https://ghproxy.com/https://raw.githubusercontent.com/lqky/iptv/main/m3u/tv.m3u
+https://lqtv.github.io/m3u/tv1.m3u
 ```
 
 ## 节目单
@@ -51,11 +51,11 @@ http://epg.112114.eu.org/
 ```
 ### CDN 3
 ```
-http://epg.51zmt.top:8000/e.xml
+https://epg.112114.xyz/pp.xml
 ```
 ### CND4
 ```
-https://ghproxy.com/https://raw.githubusercontent.com/viptv-work/iptv/main/EPG.xml
+http://epg.51zmt.top:8000/e.xml
 ```
 ## 播放器推荐
 
