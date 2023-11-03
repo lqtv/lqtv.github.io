@@ -42,6 +42,10 @@ http://zb.gxlbamc.com:1935/live/xwhc.stream/playlist.m3u8
 http://58.20.202.43:808/hls/50/index.m3u8
 #EXTINF:-1 tvg-id="来宾综合" tvg-name="LBTV-1" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/lbzh.png" group-title="广西",来宾综合 1080P
 http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/TVB4.png" group-title="香港",无线新闻 720P
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/TVB5.png" group-title="香港",無綫財經 720P
+http://r.jdshipin.com/jUx8K
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV13.png" group-title="央视",CCTV新闻 IPV6
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/yicai.png" group-title="上海",第一财经 IPV6
