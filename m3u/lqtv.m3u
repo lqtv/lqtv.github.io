@@ -21,7 +21,7 @@ http://iptv.10086.fund:23334/PLTV/88888888/224/3221227477/index.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV9.png" group-title="央视",CCTV纪录 480P
 http://123.6.9.146/live/jz-cctv-9/live.m3u8
 #EXTINF:-1 tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="http://gitee.com/lqky/iptv/raw/main/logo/BesTV.png" group-title="精选",看天下精选 1080P
-https://live.metshop.top/bestv.php?id=ktxjx8m/8000000
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTVbilliards.png" group-title="央视",CCTV央视台球 可选码率
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/TVB5.png" group-title="香港",無綫財經 HEVC
