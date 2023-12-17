@@ -35,7 +35,7 @@ https://live.metshop.top/bestv.php?id=qqdp8m/8000000
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN新闻 576P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CGTN.png" group-title="国际",CGTN新闻 官源
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN新闻 1080P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CGTN.png" group-title="国际",CGTN新闻 1080P
-http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226297/1/index.m3u8?fmt=ts2hls
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-name="亚洲新闻 1080P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/Asianews.png" group-title="国际",亚洲新闻 1080P
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/TVB5.png" group-title="香港",财經資訊 HEVC
