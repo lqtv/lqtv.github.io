@@ -27,7 +27,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 #EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球 1080P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTVbilliards.png" group-title="央视",CCTV央视台球 1080P
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 #EXTINF:-1 tvg-id="看天下精选" tvg-name="看天下精选 1080P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/BesTV.png" group-title="精选",看天下精选 1080P
-https://live.metshop.top/bestv.php?id=ktxjx8m/8000000
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV电视剧 高音质" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV8.png" group-title="央视",CCTV电视剧 高音质
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片 1080P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/BesTV.png" group-title="电影",全球大片 1080P
