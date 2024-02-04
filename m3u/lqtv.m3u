@@ -11,13 +11,13 @@ https://www.yicai.com/api/dycj/liveIndex.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV13.png" group-title="央视",CCTV新闻 720P
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/yicai.png" group-title="上海",第一财经 720P
-https://tencent-stream.kksmg.com/live/dycj.m3u8?txSecret=6d70d8cbdec4494810b4072e6b459102&txTime=65ad2ec9
+https://tencent-stream.kksmg.com/live/dycj.m3u8?txSecret=ff7a601fb428a94de5906675584b5a39&txTime=65b7a154
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV13.png" group-title="央视",CCTV新闻 HEVC
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?$4M1080
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/yicai.png" group-title="上海",第一财经 1080P
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226172/1.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV9.png" group-title="央视",CCTV纪录 HEVC
-https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV2.png" group-title="央视",CCTV财经 HEVC
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV9.png" group-title="央视",CCTV纪录 480P
