@@ -59,8 +59,8 @@ http://epg.51zmt.top:8000/e.xml
 ```
 ## 播放器推荐
 
-### 安卓：kodi、tivimate iptv player、iptv pro
+### 安卓：Kodi、TiviMate、IPTV Pro
 
-### 苹果：aptv、ntplayer
+### 苹果：APTV、SenPlayer
 
-### 电脑：PotPlayer、kodi
+### 电脑：Kodi、PotPlayer
