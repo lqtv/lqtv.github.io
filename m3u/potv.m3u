@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV新闻 540P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV13.png" group-title="央视",CCTV新闻 540P
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1635962688-0-e013f973588e41599d7751a912170d78-fd33c55f8befe5c00fb32fee650348c0
-#EXTINF:-1 tvg-id="上海第一财经" tvg-name="第一财经 360P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/yicai.png" group-title="上海",第一财经 360P
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="第一财经 官源" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/yicai.png" group-title="上海",第一财经 官源
 https://www.yicai.com/api/dycj/liveIndex.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV新闻 HEVC" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV13.png" group-title="央视",CCTV新闻 HEVC
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?%244M1080
@@ -24,7 +24,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV电视剧 HEVC" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV8.png" group-title="央视",CCTV电视剧 HEVC
 http://[2409:8087:7001:20:3::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN新闻 576P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CGTN.png" group-title="国际",CGTN新闻 官源
+#EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN新闻 官源" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CGTN.png" group-title="国际",CGTN新闻 官源
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN新闻 1080P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CGTN.png" group-title="国际",CGTN新闻 1080P
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -34,13 +34,13 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="TVB Entertainment News" tvg-name="娛樂新聞 可变码率" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/TvbEN.png" group-title="香港",娛樂新聞 可变码率
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="来宾新闻" tvg-name="来宾新闻 1080P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/lbxw.png" group-title="广西",来宾新闻 1080P
+#EXTINF:-1 tvg-id="来宾新闻" tvg-name="来宾新闻 官源" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/lbxw.png" group-title="广西",来宾新闻 官源
 http://zb.gxlbamc.com:1935/live/xwhc.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="来宾综合" tvg-name="来宾综合 1080P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/lbzh.png" group-title="广西",来宾综合 1080P
+#EXTINF:-1 tvg-id="来宾综合" tvg-name="来宾综合 官源" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/lbzh.png" group-title="广西",来宾综合 官源
 http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻 可变码率" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/TVB4.png" group-title="香港",无线新闻 可变码率
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视 720P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/sxws.png" group-title="山西",山西卫视 官源720P
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视 官源" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/sxws.png" group-title="山西",山西卫视 官源720P
 https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/q2sh84V.m3u8
 #EXTINF:-1 tvg-id="运城新闻" tvg-name="运城新闻 720P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/ycxw.png" group-title="山西",运城新闻 720P
 http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8?zshanxd
