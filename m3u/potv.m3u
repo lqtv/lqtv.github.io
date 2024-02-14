@@ -10,8 +10,8 @@ https://www.yicai.com/api/dycj/liveIndex.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?%244M1080
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="第一财经 1080P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/yicai.png" group-title="上海",第一财经 1080P
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV纪录 480P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV9.png" group-title="央视",CCTV纪录 480P
-http://123.6.9.146/live/jz-cctv-9/live.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV纪录 576P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV9.png" group-title="央视",CCTV纪录 576P
+http://111.207.22.10:8888/newlive/live/hls/11/live.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV纪录 HEVC" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV9.png" group-title="央视",CCTV纪录 HEVC
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV音乐 HEVC" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV15.png" group-title="央视",CCTV音乐 HEVC
