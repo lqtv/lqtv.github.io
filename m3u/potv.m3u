@@ -2,8 +2,8 @@
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE local
 
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV新闻 540P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV13.png" group-title="央视",CCTV新闻 540P
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1635962688-0-e013f973588e41599d7751a912170d78-fd33c55f8befe5c00fb32fee650348c0
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV新闻 360P" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV13.png" group-title="央视",CCTV新闻 360P
+https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="第一财经 官源" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/yicai.png" group-title="上海",第一财经 官源
 https://www.yicai.com/api/dycj/liveIndex.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV新闻 HEVC" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV13.png" group-title="央视",CCTV新闻 HEVC
