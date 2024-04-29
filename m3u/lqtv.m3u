@@ -8,17 +8,17 @@ https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/yicai.png" group-title="上海",第一财经 官源
 https://www.yicai.com/api/dycj/liveIndex.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV13.png" group-title="央视",CCTV新闻 HEVC
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?%244M1080
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/yicai.png" group-title="上海",第一财经 1080P
 http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/dycjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV9.png" group-title="央视",CCTV纪录 HEVC
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV2.png" group-title="央视",CCTV财经 HEVC
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV9.png" group-title="央视",CCTV纪录 576P
 http://111.207.22.10:8888/newlive/live/hls/11/live.m3u8
 #EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTVbilliards.png" group-title="央视",CCTV央视台球 可选码率
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/TVB5.png" group-title="香港",無綫財經 HEVC
 http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CGTN.png" group-title="国际",CGTN英语 官源
@@ -28,9 +28,9 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3
 #EXTINF:-1 tvg-id="ChannelNewsAsia" tvg-name="ChannelNewsAsia" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/Asianews.png" group-title="国际",亚洲新闻 可选码率
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTVworldgeo.png" group-title="央视",CCTV世界地理 1080P
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV15.png" group-title="央视",CCTV音乐 HEVC
-http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
+http://113.128.226.58:8888/newlive/live/hls/17/live.m3u8
 #EXTINF:-1 tvg-id="来宾新闻" tvg-name="LBXW" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/lbxw.png" group-title="广西",来宾新闻 官源
 http://zb.gxlbamc.com:1935/live/xwhc.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="来宾综合" tvg-name="LBTV-1" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/lbzh.png" group-title="广西",来宾综合 官源
