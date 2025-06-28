@@ -4,7 +4,7 @@
 #EXT-X-SUB-URL https://gitee.com/lqky/iptv/raw/main/m3u/lqtv.m3u
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV13.png" group-title="央视",CCTV新闻 360P
-https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
+https://d1--cn-gotcha209.bilivideo.com/live-bvc/557216/live_451320374_74782602_2500/index.m3u8?expires=1750256850&len=0&oi=1900263210&pt=web&qn=250&trid=1007230fbfae25dccacf12bff22bfa6852be&bmt=1&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha209&sign=0cae737ecb5c64f5483d18237e5b303a&site=1892a9ee85c4a6a147ae1ba36176c339&free_type=0&mid=433222553&sche=ban&bvchls=1&trace=16&isp=ct&rg=South&pv=Guangdong&deploy_env=prod&long_ab_flag=live_default_longitudinal&hdr_type=0&strategy_id=25&p2p_type=1&strategy_types=0&source=puv3_onetier&long_ab_id=45&sl=2&suffix=2500&hot_cdn=909709&strategy_version=latest&ld=jchz&strategy_ids=25&codec=0&expected_qn=250&info_source=origin&flvsk=184cb66222b37703cab468a68770438f&pp=rtmp&score=1&sk=d2fe15e8662c9e34d2707653ba5592f2&origin_bitrate=458364&long_ab_flag_value=test&strategy_type=0&vd=bc&src=puv3&order=1
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/yicai.png" group-title="上海",第一财经 官源
 https://www.yicai.com/api/dycj/liveIndex.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV13.png" group-title="央视",CCTV新闻 HEVC
