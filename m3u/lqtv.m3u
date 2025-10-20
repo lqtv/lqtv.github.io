@@ -3,14 +3,14 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://gitee.com/lqky/iptv/raw/main/m3u/lqtv.m3u
 
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV13.png" group-title="央视",CCTV新闻 360P
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV13.png" group-title="央视",CCTV新闻 720P
 https://d1--cn-gotcha209.bilivideo.com/live-bvc/557216/live_451320374_74782602_2500/index.m3u8?expires=1750256850&len=0&oi=1900263210&pt=web&qn=250&trid=1007230fbfae25dccacf12bff22bfa6852be&bmt=1&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha209&sign=0cae737ecb5c64f5483d18237e5b303a&site=1892a9ee85c4a6a147ae1ba36176c339&free_type=0&mid=433222553&sche=ban&bvchls=1&trace=16&isp=ct&rg=South&pv=Guangdong&deploy_env=prod&long_ab_flag=live_default_longitudinal&hdr_type=0&strategy_id=25&p2p_type=1&strategy_types=0&source=puv3_onetier&long_ab_id=45&sl=2&suffix=2500&hot_cdn=909709&strategy_version=latest&ld=jchz&strategy_ids=25&codec=0&expected_qn=250&info_source=origin&flvsk=184cb66222b37703cab468a68770438f&pp=rtmp&score=1&sk=d2fe15e8662c9e34d2707653ba5592f2&origin_bitrate=458364&long_ab_flag_value=test&strategy_type=0&vd=bc&src=puv3&order=1
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/yicai.png" group-title="上海",第一财经 官源
 https://www.yicai.com/api/dycj/liveIndex.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV13.png" group-title="央视",CCTV新闻 HEVC
-http://148.135.93.213:81/live.php?id=CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV13.png" group-title="央视",CCTV新闻 1080P
+https://d1--cn-gotcha209.bilivideo.com/live-bvc/571740/live_451320374_74782602_bluray/index.m3u8?expires=1751780071&len=0&oi=992627114&pt=web&qn=10000&trid=10072019194a0d40321f0876da0c476869fc&bmt=1&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=cn-gotcha209&sign=7a55ecccb14e054475b484290dec011f&site=d06d91b660e14877424cf4cf4ef59571&free_type=0&mid=433222553&sche=ban&bvchls=1&trace=16&isp=ct&rg=South&pv=Guangdong&score=1&expected_qn=10000&info_source=cache&sk=ab4d6216ed762aced81a9ee666ed2773&codec=0&flvsk=34cd870526f386c6b8baa8858061bfa5&sl=3&strategy_version=latest&source=puv3_onetier&strategy_ids=60&ld=xscd&long_ab_flag_value=test&strategy_type=0&strategy_types=0&pp=rtmp&strategy_id=60&hdr_type=0&origin_bitrate=563755&p2p_type=1&deploy_env=prod&long_ab_id=45&hot_cdn=909709&suffix=bluray&long_ab_flag=live_default_longitudinal&vd=bc&src=puv3&order=1
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/yicai.png" group-title="上海",第一财经 1080P
-http://60.176.51.109:4022/udp/233.50.200.125:5140
+https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV9.png" group-title="央视",CCTV纪录 HEVC
 http://148.135.93.213:81/live.php?id=CCTV9
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/lqky/iptv/raw/main/logo/CCTV2.png" group-title="央视",CCTV财经 HEVC
